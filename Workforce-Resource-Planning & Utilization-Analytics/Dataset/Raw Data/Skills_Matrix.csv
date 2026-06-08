@@ -1,0 +1,517 @@
+﻿Employee_Id,Skill,Level
+E053,Cloud,Intermediate
+E040,Data Modeling,Intermediate
+E018,Excel,Advanced
+E011,Python,Beginner
+E115,Cloud,Advanced
+E082,ETL,Advanced
+E083,Python,Intermediate
+E090,Cloud,Beginner
+E047,Cloud,Advanced
+E031,ETL,Beginner
+E108,Python,Beginner
+E110,ETL,Expert
+E094,Project Management,Advanced
+E007,SQL,Beginner
+E006,Cloud,Beginner
+E094,Excel,Beginner
+E076,Project Management,Intermediate
+E061,Python,Advanced
+E114,Cloud,Beginner
+E052,SQL,Beginner
+E032,Data Modeling,Beginner
+E116,Data Modeling,Expert
+E081,Python,Expert
+E066,ETL,Intermediate
+E050,Python,Beginner
+E039,SQL,Intermediate
+E088,Python,Beginner
+E077,Data Modeling,Expert
+E099,Excel,Intermediate
+E049,ETL,Expert
+E061,Python,Expert
+E022,Power BI,Expert
+E006,Python,Advanced
+E060,ETL,Advanced
+E100,Power BI,Beginner
+E047,Excel,Intermediate
+E019,SQL,Beginner
+E070,Project Management,Advanced
+E092,Python,Expert
+E032,Cloud,Advanced
+E069,Power BI,Beginner
+E070,Python,Intermediate
+E014,Project Management,Advanced
+E086,ETL,Beginner
+E094,Excel,Intermediate
+E048,Data Modeling,Expert
+E039,Python,Advanced
+E052,Power BI,Beginner
+E117,Cloud,Expert
+E053,ETL,Advanced
+E021,Excel,Intermediate
+E104,Data Modeling,Intermediate
+E050,Data Modeling,Advanced
+E091,Project Management,Advanced
+E040,SQL,Expert
+E106,Python,Expert
+E019,SQL,Intermediate
+E086,ETL,Expert
+E012,Data Modeling,Beginner
+E086,Power BI,Intermediate
+E100,Power BI,Expert
+E092,ETL,Advanced
+E085,Excel,Intermediate
+E025,Excel,Expert
+E094,Cloud,Advanced
+E035,SQL,Beginner
+E029,Cloud,Beginner
+E034,Cloud,Advanced
+E031,SQL,Expert
+E014,Data Modeling,Expert
+E086,Python,Advanced
+E104,Project Management,Expert
+E019,Project Management,Advanced
+E109,SQL,Advanced
+E035,Python,Advanced
+E056,Cloud,Beginner
+E006,ETL,Advanced
+E066,Power BI,Beginner
+E055,Cloud,Intermediate
+E033,Python,Advanced
+E053,Excel,Advanced
+E030,SQL,Expert
+E089,SQL,Expert
+E053,Cloud,Expert
+E111,Data Modeling,Beginner
+E051,Power BI,Intermediate
+E110,Cloud,Advanced
+E067,Cloud,Expert
+E099,ETL,Expert
+E030,Cloud,Expert
+E092,ETL,Advanced
+E031,Data Modeling,Intermediate
+E035,Cloud,Intermediate
+E010,SQL,Intermediate
+E007,Data Modeling,Beginner
+E117,Python,Expert
+E099,Cloud,Advanced
+E106,SQL,Beginner
+E114,SQL,Intermediate
+E081,SQL,Intermediate
+E034,Cloud,Beginner
+E105,Data Modeling,Expert
+E005,Power BI,Intermediate
+E029,Python,Beginner
+E040,Excel,Expert
+E054,Python,Intermediate
+E080,Python,Intermediate
+E030,Data Modeling,Intermediate
+E095,SQL,Intermediate
+E024,Power BI,Intermediate
+E064,Cloud,Expert
+E095,Cloud,Expert
+E075,Power BI,Expert
+E016,ETL,Advanced
+E035,Python,Intermediate
+E106,Cloud,Intermediate
+E048,Cloud,Advanced
+E088,ETL,Beginner
+E114,Python,Expert
+E063,Data Modeling,Expert
+E014,Excel,Advanced
+E081,SQL,Intermediate
+E107,ETL,Expert
+E120,Excel,Advanced
+E111,ETL,Beginner
+E106,Data Modeling,Beginner
+E087,Data Modeling,Intermediate
+E048,Python,Advanced
+E080,Data Modeling,Expert
+E102,Project Management,Expert
+E080,Project Management,Beginner
+E071,SQL,Intermediate
+E091,Project Management,Expert
+E064,Excel,Expert
+E085,Data Modeling,Beginner
+E115,Excel,Expert
+E096,Cloud,Expert
+E007,ETL,Beginner
+E053,Data Modeling,Expert
+E116,Project Management,Intermediate
+E088,SQL,Beginner
+E049,Data Modeling,Expert
+E052,Project Management,Advanced
+E013,ETL,Intermediate
+E062,Data Modeling,Expert
+E050,SQL,Advanced
+E038,Python,Beginner
+E065,Excel,Intermediate
+E117,Project Management,Expert
+E028,Project Management,Beginner
+E089,Excel,Intermediate
+E024,Cloud,Advanced
+E081,Data Modeling,Intermediate
+E114,Power BI,Advanced
+E077,Python,Advanced
+E040,Excel,Beginner
+E037,SQL,Intermediate
+E102,Cloud,Advanced
+E098,SQL,Advanced
+E040,Cloud,Intermediate
+E038,ETL,Intermediate
+E083,Project Management,Beginner
+E018,Project Management,Intermediate
+E060,Cloud,Intermediate
+E055,Power BI,Beginner
+E106,Data Modeling,Advanced
+E055,ETL,Expert
+E068,ETL,Beginner
+E110,Data Modeling,Expert
+E074,Python,Expert
+E049,Python,Advanced
+E011,ETL,Intermediate
+E035,Data Modeling,Intermediate
+E111,ETL,Advanced
+E010,ETL,Expert
+E003,Excel,Expert
+E089,Python,Intermediate
+E043,Excel,Beginner
+E019,Project Management,Advanced
+E086,Excel,Expert
+E019,Cloud,Expert
+E021,Data Modeling,Advanced
+E061,Cloud,Beginner
+E095,Excel,Intermediate
+E045,SQL,Advanced
+E010,Excel,Intermediate
+E042,ETL,Beginner
+E044,Cloud,Expert
+E111,ETL,Beginner
+E109,Data Modeling,Intermediate
+E120,ETL,Advanced
+E046,Data Modeling,Expert
+E117,ETL,Intermediate
+E022,Excel,Intermediate
+E025,Project Management,Expert
+E085,Excel,Beginner
+E008,SQL,Intermediate
+E053,Python,Beginner
+E105,ETL,Advanced
+E052,Cloud,Advanced
+E013,Data Modeling,Beginner
+E039,Data Modeling,Expert
+E056,Excel,Expert
+E105,SQL,Expert
+E030,Power BI,Beginner
+E103,SQL,Advanced
+E036,Data Modeling,Beginner
+E001,Data Modeling,Advanced
+E114,Data Modeling,Beginner
+E017,Python,Beginner
+E119,Excel,Advanced
+E028,ETL,Advanced
+E106,ETL,Advanced
+E019,Project Management,Intermediate
+E044,Excel,Beginner
+E101,Power BI,Beginner
+E013,SQL,Advanced
+E038,Python,Expert
+E086,Data Modeling,Advanced
+E001,Data Modeling,Beginner
+E106,Cloud,Advanced
+E061,Project Management,Expert
+E053,SQL,Intermediate
+E073,Cloud,Advanced
+E068,Data Modeling,Expert
+E038,Power BI,Advanced
+E012,Cloud,Beginner
+E106,ETL,Intermediate
+E026,Data Modeling,Expert
+E030,Project Management,Advanced
+E038,Project Management,Beginner
+E042,Project Management,Beginner
+E027,ETL,Intermediate
+E001,Data Modeling,Beginner
+E023,Power BI,Expert
+E099,ETL,Beginner
+E069,Excel,Advanced
+E094,Data Modeling,Expert
+E068,Excel,Expert
+E075,Python,Advanced
+E034,Power BI,Advanced
+E095,SQL,Beginner
+E017,Data Modeling,Beginner
+E091,Excel,Expert
+E008,ETL,Beginner
+E010,Excel,Beginner
+E082,Cloud,Intermediate
+E021,SQL,Expert
+E080,ETL,Advanced
+E029,Data Modeling,Beginner
+E083,SQL,Expert
+E103,Cloud,Expert
+E056,Data Modeling,Advanced
+E073,Project Management,Expert
+E087,Excel,Intermediate
+E008,ETL,Advanced
+E022,Python,Beginner
+E036,Excel,Advanced
+E020,Power BI,Expert
+E017,Cloud,Beginner
+E058,SQL,Expert
+E011,Python,Expert
+E118,Excel,Beginner
+E081,SQL,Beginner
+E097,Excel,Beginner
+E048,Project Management,Beginner
+E047,Project Management,Expert
+E050,Data Modeling,Expert
+E079,Data Modeling,Intermediate
+E096,Project Management,Intermediate
+E097,ETL,Intermediate
+E014,Cloud,Intermediate
+E035,Project Management,Intermediate
+E009,Excel,Expert
+E103,Project Management,Expert
+E052,Data Modeling,Intermediate
+E064,Power BI,Intermediate
+E013,Excel,Advanced
+E066,Data Modeling,Expert
+E083,Data Modeling,Expert
+E037,SQL,Expert
+E059,Cloud,Intermediate
+E081,ETL,Expert
+E009,ETL,Expert
+E109,Excel,Beginner
+E103,Power BI,Advanced
+E112,Data Modeling,Expert
+E055,Cloud,Expert
+E101,Cloud,Intermediate
+E103,Cloud,Advanced
+E116,Data Modeling,Advanced
+E064,ETL,Advanced
+E011,ETL,Advanced
+E114,Excel,Advanced
+E010,ETL,Intermediate
+E096,Cloud,Expert
+E065,Data Modeling,Advanced
+E004,Power BI,Advanced
+E072,Project Management,Beginner
+E084,Project Management,Advanced
+E095,Power BI,Advanced
+E054,Cloud,Beginner
+E006,Project Management,Intermediate
+E004,Data Modeling,Beginner
+E054,SQL,Beginner
+E012,Cloud,Intermediate
+E113,Excel,Beginner
+E097,SQL,Expert
+E079,Power BI,Beginner
+E119,ETL,Beginner
+E097,Python,Expert
+E075,Data Modeling,Expert
+E014,SQL,Beginner
+E002,Power BI,Advanced
+E045,Cloud,Beginner
+E001,Data Modeling,Beginner
+E013,Power BI,Intermediate
+E035,ETL,Intermediate
+E018,ETL,Advanced
+E058,Python,Intermediate
+E087,Excel,Expert
+E076,Project Management,Beginner
+E008,ETL,Intermediate
+E023,ETL,Beginner
+E107,Cloud,Intermediate
+E101,Power BI,Expert
+E044,SQL,Advanced
+E061,Excel,Advanced
+E119,SQL,Expert
+E029,Power BI,Expert
+E008,Excel,Intermediate
+E066,Project Management,Advanced
+E014,Cloud,Intermediate
+E082,Project Management,Expert
+E085,Data Modeling,Advanced
+E030,Power BI,Intermediate
+E082,Power BI,Intermediate
+E081,Power BI,Beginner
+E060,Data Modeling,Intermediate
+E113,ETL,Expert
+E103,Data Modeling,Expert
+E101,Data Modeling,Intermediate
+E020,Data Modeling,Expert
+E066,Data Modeling,Advanced
+E028,Excel,Advanced
+E090,Excel,Advanced
+E053,Project Management,Advanced
+E102,Excel,Expert
+E027,Python,Expert
+E011,Python,Intermediate
+E005,Cloud,Intermediate
+E057,Excel,Beginner
+E032,Data Modeling,Beginner
+E028,Power BI,Beginner
+E040,Python,Intermediate
+E057,Cloud,Beginner
+E028,SQL,Beginner
+E017,Excel,Intermediate
+E041,Project Management,Expert
+E108,Python,Intermediate
+E020,ETL,Beginner
+E012,Excel,Expert
+E052,Excel,Beginner
+E090,Excel,Advanced
+E011,Power BI,Expert
+E099,Power BI,Intermediate
+E050,SQL,Beginner
+E019,Cloud,Beginner
+E038,Project Management,Intermediate
+E044,SQL,Intermediate
+E116,Excel,Expert
+E056,Python,Intermediate
+E010,Project Management,Advanced
+E026,ETL,Beginner
+E070,Power BI,Advanced
+E029,Excel,Beginner
+E011,SQL,Advanced
+E111,Project Management,Advanced
+E022,SQL,Beginner
+E061,SQL,Intermediate
+E008,Cloud,Intermediate
+E070,SQL,Intermediate
+E097,Data Modeling,Advanced
+E066,SQL,Beginner
+E026,Project Management,Intermediate
+E040,Data Modeling,Intermediate
+E097,Data Modeling,Advanced
+E119,Cloud,Advanced
+E046,Power BI,Advanced
+E011,SQL,Intermediate
+E099,SQL,Intermediate
+E064,ETL,Expert
+E019,Cloud,Expert
+E010,Project Management,Intermediate
+E102,ETL,Beginner
+E068,ETL,Intermediate
+E048,SQL,Intermediate
+E063,ETL,Expert
+E052,Cloud,Expert
+E073,Power BI,Beginner
+E026,Excel,Beginner
+E053,Power BI,Expert
+E067,SQL,Beginner
+E086,Cloud,Beginner
+E089,Data Modeling,Advanced
+E048,Data Modeling,Beginner
+E072,SQL,Advanced
+E082,Cloud,Advanced
+E114,Power BI,Expert
+E041,ETL,Advanced
+E003,Python,Expert
+E048,Excel,Intermediate
+E018,Excel,Intermediate
+E062,Data Modeling,Advanced
+E076,SQL,Intermediate
+E014,Project Management,Beginner
+E098,Cloud,Advanced
+E117,Power BI,Expert
+E043,Cloud,Beginner
+E079,SQL,Advanced
+E111,ETL,Advanced
+E015,Cloud,Advanced
+E111,Data Modeling,Intermediate
+E036,SQL,Advanced
+E020,Power BI,Intermediate
+E042,SQL,Beginner
+E046,Python,Expert
+E062,Python,Advanced
+E017,Python,Beginner
+E091,ETL,Beginner
+E116,ETL,Expert
+E001,Project Management,Advanced
+E068,Project Management,Expert
+E027,Power BI,Expert
+E056,Python,Beginner
+E009,Project Management,Intermediate
+E048,Excel,Beginner
+E059,ETL,Intermediate
+E012,Cloud,Expert
+E095,SQL,Advanced
+E047,Excel,Intermediate
+E005,Data Modeling,Beginner
+E113,Project Management,Advanced
+E090,Project Management,Advanced
+E033,Project Management,Intermediate
+E032,Data Modeling,Expert
+E060,Cloud,Beginner
+E117,Cloud,Expert
+E072,Project Management,Expert
+E073,Power BI,Beginner
+E042,Project Management,Advanced
+E009,SQL,Advanced
+E033,Data Modeling,Advanced
+E108,Data Modeling,Beginner
+E116,Project Management,Intermediate
+E081,SQL,Advanced
+E051,Power BI,Beginner
+E114,Project Management,Expert
+E070,Excel,Intermediate
+E089,SQL,Expert
+E018,Power BI,Intermediate
+E053,Power BI,Intermediate
+E097,SQL,Beginner
+E089,Data Modeling,Advanced
+E070,Cloud,Intermediate
+E109,Data Modeling,Intermediate
+E069,ETL,Beginner
+E023,Power BI,Beginner
+E009,Cloud,Beginner
+E071,Cloud,Intermediate
+E058,Power BI,Expert
+E015,Data Modeling,Advanced
+E070,Project Management,Expert
+E041,SQL,Intermediate
+E018,Python,Intermediate
+E037,ETL,Expert
+E054,Python,Advanced
+E065,ETL,Beginner
+E052,Power BI,Beginner
+E064,Data Modeling,Intermediate
+E086,SQL,Beginner
+E110,Cloud,Beginner
+E034,Data Modeling,Intermediate
+E111,ETL,Beginner
+E075,Cloud,Advanced
+E080,Power BI,Expert
+E112,SQL,Advanced
+E052,Power BI,Expert
+E022,Project Management,Advanced
+E103,SQL,Advanced
+E086,ETL,Advanced
+E073,ETL,Expert
+E109,Project Management,Beginner
+E049,ETL,Advanced
+E090,SQL,Beginner
+E120,Data Modeling,Intermediate
+E077,Power BI,Intermediate
+E117,Cloud,Intermediate
+E063,Project Management,Beginner
+E093,Cloud,Beginner
+E033,SQL,Intermediate
+E103,ETL,Advanced
+E022,Excel,Beginner
+E060,Cloud,Expert
+E102,Project Management,Advanced
+E020,Python,Expert
+E024,SQL,Intermediate
+E029,SQL,Expert
+E095,Power BI,Beginner
+E058,Cloud,Advanced
+E107,Python,Expert
+E042,Cloud,Expert
+E019,Project Management,Intermediate
+E111,Python,Beginner
+E034,Project Management,Intermediate
+E010,Cloud,Intermediate

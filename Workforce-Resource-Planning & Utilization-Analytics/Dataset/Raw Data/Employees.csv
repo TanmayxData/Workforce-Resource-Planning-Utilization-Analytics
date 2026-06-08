@@ -1,0 +1,125 @@
+﻿Employee_Id,Employee_Name,Department,Skill,CapicityHours
+E001,Aarav Sharma,Analytics,SQL,176
+E002,,Project Management,Power BI,176
+E003,Vivaan Reddy,Data Engineering,Excel,176
+E004,Aanya Iyer,Analytics,Python,160
+E005,Aditya Verma,Analytics,ETL,176
+E006,Saanvi Mehta,Business Intelligence,Data Modeling,160
+E007,Vihaan Gupta,Analytics,ETL,168
+E008,Myra Singh,Business Intelligence,Excel,160
+E009,Arjun Joshi,Data Engineering,Excel,176
+E010,Anika Kapoor,Data Engineering,Cloud,168
+E011,Sai Krishnan,Operations,Python,
+,Pari Malhotra,Data Engineering,Python,168
+E013,Reyansh Nair,Operations,Python,176
+E014,Kiara Khan,Business Intelligence,SQL,160
+E015,Ayaan Rao,Analytics,Excel,160
+E016,Navya Desai,Operations,Data Modeling,160
+E017,Krishna Iyer,Operations,SQL,168
+E018,Ira Subramanian,Data Engineering,Power BI,168
+E019,Ishaan Bhatia,Business Intelligence,Excel,168
+E020,,Data Engineering,ETL,184
+E021,Rohan Agarwal,Data Engineering,Data Modeling,168
+E022,Sara Pillai,Business Intelligence,Python,168
+E023,Kabir Singh,Analytics,Power BI,
+,Tanvi Deshmukh,Operations,Data Modeling,160
+E025,Aryan Kapoor,Data Engineering,Excel,168
+E026,Anvi Jain,Project Management,SQL,184
+E027,Dhruv Nair,Data Engineering,Python,176
+E028,Aaradhya Trivedi,Operations,Excel,160
+E029,Karthik Subramanian,Project Management,ETL,176
+E030,Mahi Saxena,Analytics,SQL,160
+E031,Rahul Desai,Analytics,ETL,176
+E032,Khushi Bansal,Analytics,SQL,168
+E033,Siddharth Rao,Business Intelligence,ETL,168
+E034,Nidhi Mishra,,Cloud,176
+E035,Yash Agarwal,Analytics,Cloud,160
+E036,Sneha Hegde,Data Engineering,SQL,176
+E037,Aman Choudhary,Analytics,Project Management,176
+E038,Pooja Goel,Business Intelligence,Excel,160
+E039,Nikhil Bhatia,Business Intelligence,Cloud,168
+E040,Meera Tiwari,Project Management,Project Management,176
+E041,Varun Pillai,Operations,Python,184
+E042,Priya Pandey,Analytics,Excel,168
+,Aniket Deshmukh,Operations,SQL,168
+E044,Ritika Sinha,Project Management,Data Modeling,176
+E045,Harsh Jain,Project Management,ETL,184
+E046,Neha Menon,Analytics,Excel,176
+E047,Manav Trivedi,Project Management,SQL,184
+E048,Shruti Arora,Operations,ETL,160
+E049,Tarun Saxena,Project Management,SQL,176
+E050,Kavya Chopra,Operations,Power BI,168
+E051,Rishabh Bansal,Operations,Excel,176
+E052,Anushka Bhattacharya,Analytics,Power BI,160
+E053,Karan Mishra,Analytics,Python,176
+E054,Sanya Shetty,Analytics,SQL,176
+E055,Pranav Hegde,Analytics,ETL,176
+E056,Tanya Rajput,Project Management,SQL,176
+E057,Devansh Goel,Operations,Project Management,168
+E058,Bhavya Thakur,Analytics,Excel,160
+E059,Shaurya Tiwari,Business Intelligence,SQL,168
+E060,Aditi Qureshi,Analytics,SQL,160
+E061,Atharv Pandey,Business Intelligence,,168
+E062,Rhea Naidu,Data Engineering,Data Modeling,176
+E063,Mohit Sinha,Analytics,ETL,160
+E064,Sakshi Pathak,Business Intelligence,Python,168
+,Akash Menon,,Excel,176
+E066,Megha Mahajan,Operations,SQL,160
+E067,Sahil Arora,Analytics,Excel,160
+E068,Divya Bhardwaj,Analytics,SQL,
+E069,Raghav Chopra,Business Intelligence,Power BI,176
+E070,Pallavi Dubey,Business Intelligence,Power BI,160
+E071,Aditya Bhattacharya,Business Intelligence,Data Modeling,176
+E072,,Project Management,SQL,176
+E073,Kunal Shetty,Business Intelligence,SQL,168
+E074,Lavanya Ahuja,Analytics,Power BI,176
+E075,Abhinav Rajput,Data Engineering,Cloud,184
+E076,Ananya Sethi,Data Engineering,Python,184
+E077,Parth Thakur,Analytics,Excel,160
+E078,Simran Parikh,Analytics,ETL,168
+E079,Sameer Qureshi,Analytics,Excel,160
+E080,Vaishnavi Kulkarni,Operations,Excel,168
+,Atharv Pandey,Business Intelligence,SQL,168
+E082,Swati Ghosh,Data Engineering,Data Modeling,184
+E083,Anish Pathak,Analytics,Project Management,160
+E084,Sushmita Banerjee,Analytics,Power BI,176
+E085,Rudra Mahajan,Data Engineering,SQL,176
+E086,Nisha Pillai,Business Intelligence,Python,160
+E087,Ojas Bhardwaj,Analytics,ETL,160
+E088,Radhika Naik,Analytics,Excel,160
+E089,Hritik Dubey,Operations,Excel,160
+E090,Komal Kapoor,Data Engineering,Data Modeling,168
+E091,Madhav Iyengar,Analytics,ETL,176
+E092,Rashmi Yadav,Business Intelligence,Excel,160
+E093,Veer Ahuja,Operations,SQL,184
+E094,Sunita Tripathi,Analytics,SQL,160
+E095,Daksh Sethi,Business Intelligence,Python,176
+E096,Mamta Saxena,Project Management,Power BI,176
+E097,Jay Parikh,Business Intelligence,Python,160
+E098,Lakshmi Krishnan,Analytics,Project Management,160
+E099,Nitin Kulkarni,Business Intelligence,SQL,160
+E100,Anjali Mathur,Data Engineering,Power BI,184
+,Sanjay Ghosh,Project Management,Power BI,176
+E102,Shreya Joshi,Project Management,Project Management,176
+E103,Manoj Banerjee,Operations,Excel,160
+E104,Geeta Sharma,Operations,SQL,160
+E105,Suresh Pillai,Business Intelligence,ETL,168
+E106,Rekha Verma,Operations,Power BI,168
+E107,Ramesh Naik,Analytics,Python,176
+E108,Deepika Reddy,Analytics,ETL,168
+E109,Anil Kapoor,Analytics,Excel,160
+E110,Asha Mehta,Analytics,Cloud,176
+E111,Deepak Yadav,Business Intelligence,Data Modeling,160
+E112,Kavita Gupta,Analytics,Power BI,160
+E113,Vinay Tripathi,Analytics,ETL,160
+E114,Pooja Singh,Business Intelligence,Excel,168
+E115,,Business Intelligence,Excel,168
+E116,Ritu Joshi,Project Management,Project Management,176
+E117,Ashwin Krishnan,Data Engineering,Data Modeling,168
+E118,Sonia Malhotra,Business Intelligence,,160
+E119,Pradeep Mathur,Data Engineering,Power BI,168
+E120,Neeta Nair,Operations,ETL,168
+E121,Rajesh Sharma,Data Engineering,ETL,168
+,Smita Khan,Business Intelligence,Project Management,168
+E123,Amit Verma,,Cloud,
+E124,Preeti Rao,Business Intelligence,Excel,176
